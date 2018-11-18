@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoCar</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="GoCar">AIzaSyCzUEgbpdozw5fF9HZvPUdom3lC26dCp90</string>
+    <string name="title_activity_car1">Map</string>
+    <string name="title_activity_car2">Map</string>
+    <string name="title_activity_car3">Map</string>
+</resources>
